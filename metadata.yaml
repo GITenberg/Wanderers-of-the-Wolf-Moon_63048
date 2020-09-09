@@ -1,5 +1,5 @@
 _repo: Wanderers-of-the-Wolf-Moon_63048
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Ingels, Graham
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '51934'
     url: http://www.gutenberg.org/2009/agents/51934
     wikipedia: https://en.wikipedia.org/wiki/Graham_Ingels
+covers:
+- cover_type: archival
+  image_path: 63048-h/images/cover.jpg
 creator:
   author:
     agent_name: Bond, Nelson S.
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34095
     wikipedia: https://en.wikipedia.org/wiki/Nelson_S._Bond
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63048#Wanderers-of-the-Wolf-Moon
 gutenberg_issued: '2020-08-26'
 gutenberg_type: Text
 identifiers:
